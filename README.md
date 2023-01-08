@@ -1,16 +1,23 @@
-### Hi there 👋
+### Research, Development Interests
 
-<!--
-**lani009/lani009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Signal Processing using machine learning
+* Semi-Supervised Indoor Localization neural net
+* AI/ML powered C4ISR System
 
-Here are some ideas to get you started:
+### Personal Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Low level programming
+* System programming
+* RTL-SDR
+* Amateur wireless communication (HAM)
+* Salt water - Surf lure fishing
+
+### Currently I am...
+
+* ROK Air Force 2LT (2023.06.01~)
+* Enjoying civilian life
+
+### Future Plan
+
+* Getting a Ph.D. in Military Software
+* Promote to colonel...? (approximately 1% of possibility)
