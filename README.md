@@ -4,7 +4,7 @@
 * Semi-Supervised Indoor Localization neural net
 * AI/ML powered C4ISR System
 
-### Personal Interests
+### Personal Interests(hobby)
 
 * Low level programming
 * System programming
@@ -14,10 +14,8 @@
 
 ### Currently I am...
 
-* ROK Air Force 2LT (2023.06.01~)
-* Enjoying civilian life
+* ROK Air Force  Officer Training Squadron Cadet (March 1 ~ June 1)
 
 ### Future Plan
 
-* Getting a Ph.D. in Military Software
-* Promote to colonel...? (approximately 1% of possibility)
+* Getting a Ph.D. in Military software engineering (ex. C4I System)
