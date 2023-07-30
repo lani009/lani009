@@ -1,8 +1,9 @@
 ### Research, Development Interests
 
 * Signal Processing using machine learning
-* Semi-Supervised Indoor Localization neural net
+* Semi-Supervised Indoor Localization method
 * AI/ML powered C4ISR System
+* DevSecOps
 
 ### Personal Interests(hobby)
 
