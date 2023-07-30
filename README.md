@@ -14,8 +14,5 @@
 
 ### Currently I am...
 
-* ROK Air Force  Officer Training Squadron Cadet (March 1 ~ June 1)
-
-### Future Plan
-
-* Getting a Ph.D. in Military software engineering (ex. C4I System)
+* ROK Air Force  2nd Lt.
+* Mil. information system Vulnerability Scanning manager
