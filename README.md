@@ -16,6 +16,8 @@
 
 ### Currently I am...
 
-* ROK Air Force  2nd Lt.
-* Mil. information system Vulnerability manager
+* ROK Air Force officer
+* Malware analyst
+* SW security manager
+* Information system Vulnerability manager
 * Cyber incident response team
