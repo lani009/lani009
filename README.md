@@ -4,6 +4,7 @@
 * Semi-Supervised Indoor Localization method
 * AI/ML
 * Cyber security
+* Secure programming
 
 ### Personal Interests(hobby)
 
