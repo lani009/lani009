@@ -43,7 +43,7 @@ Cyber security engineer — incident response, malware analysis, and applied AI/
 
 ---
 
-### Achievements
+### Achievements & Activities
 
 | Date | Title | Subject | Note | Tech stack |
 |---|---|---|---|---|
@@ -52,6 +52,8 @@ Cyber security engineer — incident response, malware analysis, and applied AI/
 | 2021. 9. 13. | 2021 기술기반 창업 캡스톤디자인 경진대회 | 패션 및 코디 추천 앱 | **대상** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VTON](https://img.shields.io/badge/VTON(Virtual%20Try%20On)-%23EC5990.svg?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23593d88.svg?style=for-the-badge) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 | 2024. 5. 18. | TOPCIT | 제21회 정기평가 | 공군 1위 (공군참모총장상), Level 4 (730점) | |
 | 2024. 9. 20. | 특허등록 (Patent) | 사용자 개인 의류 사진을 이용한 패션 코디 추천 시스템 및 그 방법 | 출원번호 10-2021-0181723 | |
+| 2025 ~ 2026 | 사내 업무 절차 개선 | 애자일 조직문화 개선 | 사내 업무절차&문화를 전통적 방식에서 애자일 조직으로 변화 | ![Static Badge](https://img.shields.io/badge/Agile-blue?style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| 2026. 4. 20. ~ 24. | LS26 | Locked Shields 26 | Locked Shields C/S Linux DevOps team | ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white) ![Velero](https://img.shields.io/badge/Velero-2F7BBF?style=for-the-badge&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white) ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-B22222?style=for-the-badge&logoColor=white) ![CrowdStrike EDR](https://img.shields.io/badge/CrowdStrike%20EDR-E01F3D?style=for-the-badge&logoColor=white) |
 
 ---
 
