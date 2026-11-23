@@ -10,17 +10,18 @@ Cyber security engineer — incident response, malware analysis, and applied AI/
 
 * Cyber incident response (digital forensics & investigation)
 * Malware analysis — static binary analysis & dynamic (runtime) analysis
-* SW security inspection (secure coding, code quality, architecture review)
-* Information system vulnerability assessment
-* Administrative security inspection
+* SW security inspection (secure coding, code quality, architecture review, SAST, DAST)
+* Information system vulnerability assessment(eg. KISA 주요정보통신기반시설 기술적 취약점 분석 평가)
+* Administrative security inspection(eg. 사이버보안 평가 지원)
 
 ---
 
 ### Research & Development Interests
 
-* Machine learning for signal processing
-* Semi-supervised indoor localization
+* ~Machine learning for signal processing~
+* ~Semi-supervised indoor localization~
 * AI/ML — with a focus on local (on-premise) LLM applications
+* MLOps
 * Cyber security
 * Reverse engineering
 * Digital forensics
@@ -60,16 +61,17 @@ Cyber security engineer — incident response, malware analysis, and applied AI/
 ### Educational Activities
 
 * **2020. 09 ~ 2020. 12** — 아주대학교 / 칠보고등학교 대상 SW 코딩 교육 봉사 *(SW coding teaching volunteer)*
-* **2022. 03 ~ 2022. 06** — 아주대학교 「객체지향프로그래밍 및 실습」 실습 조교 *(TA, OOP & Practice)* — 실습 수업 진행, 과제 및 시험문제 출제
-* **2022. 09 ~ 2022. 12** — 아주대학교 「컴퓨터프로그래밍 및 실습」 실습 조교 *(TA, Computer Programming in C & Practice)* — 실습 수업 진행, 과제 및 시험문제 출제
+* **2022. 03 ~ 2022. 06** — 아주대학교 「객체지향프로그래밍 및 실습」 실습 조교 *(TA, OOP & Practice)* — 실습 수업 진행(교재 제작 및 강의), 과제 및 시험문제 출제
+* **2022. 09 ~ 2022. 12** — 아주대학교 「컴퓨터프로그래밍 및 실습」 실습 조교 *(TA, Computer Programming in C & Practice)* — 실습 수업 진행(교재 제작 및 강의), 과제 및 시험문제 출제
 
 ---
 
 ### Personal Interests
 
 * Low-level & systems programming
-* Vanilla Java programming
+* ~Vanilla Java programming~
 * RTL-SDR
 * Amateur radio (HAM)
 * Saltwater surf lure fishing
 * Camping — caravan (Lunar Quasar 544)
+* Driving (Chevy Colorado z71)
